@@ -14,7 +14,6 @@ namespace maliketi
     {
         public static void Main(string[] args)
         {
-            //Just testing changes
             CreateWebHostBuilder(args).Build().Run();
         }
 
